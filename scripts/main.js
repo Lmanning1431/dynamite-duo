@@ -14,7 +14,7 @@ const theWholeEnchilada = `
     <h1>Villains</h1>
     ${villainListHTML}
 `
-debugger
+
 
 /*
     This is the code you wrote in the last chapter to get a
